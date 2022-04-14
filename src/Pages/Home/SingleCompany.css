@@ -1,4 +1,4 @@
-.company{
+.company {
   list-style: none;
   cursor: pointer;
   height: 150px;
@@ -10,15 +10,15 @@
 }
 
 li {
-  background-color: #4066AE;
+  background-color: #4066ae;
 }
 
 li:nth-child(3n - 2) {
-  background-color: #4063A5;
+  background-color: #4063a5;
 }
 
 .symbol {
-  color: #2D4472;
+  color: #2d4472;
   font-size: 50px;
   font-style: italic;
 }
