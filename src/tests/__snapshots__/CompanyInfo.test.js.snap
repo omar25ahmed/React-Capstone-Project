@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Home component snapshot for the Company Info  1`] = `
+<ul
+  data-testid="company info"
+>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Market Cap
+    </span>
+    NaN
+     
+    $
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Sector
+    </span>
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Industry
+    </span>
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Price of the company
+    </span>
+     
+    M
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Exchange
+    </span>
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Exchange shortcut
+    </span>
+  </li>
+  <li
+    className="d-flex justify-content-between"
+  >
+    <span>
+      Trading status
+    </span>
+    not active
+  </li>
+</ul>
+`;
