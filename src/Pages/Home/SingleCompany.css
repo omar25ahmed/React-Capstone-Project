@@ -1,0 +1,33 @@
+.company{
+  list-style: none;
+  cursor: pointer;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.4s;
+}
+
+li {
+  background-color: #4066AE;
+}
+
+li:nth-child(3n - 2) {
+  background-color: #4063A5;
+}
+
+.symbol {
+  color: #2D4472;
+  font-size: 50px;
+  font-style: italic;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.company:hover {
+  background-color: #164fb9;
+}
