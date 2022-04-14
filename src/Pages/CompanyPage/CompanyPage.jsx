@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-// import uniqid from 'uniqid';
 import { useParams } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import CompanyInfo from './CompanyInfo';
