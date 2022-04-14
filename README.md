@@ -12,6 +12,7 @@ this is an informative/numeric web application that shows information about the 
 
 - HTML
 - CSS
+- Bootstrap
 - Markdown
 - JavaScript
 - React
